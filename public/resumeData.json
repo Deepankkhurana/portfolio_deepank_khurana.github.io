@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Deepank Khurana",
+    "occupation":"Software Developer",
+    "description":"I am not your average software engineer.I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations. I am an excellent web developeer. I have experience in Data Science as well.",
+    "image":"pic.jpeg",
+    "bio":"I am currently a R&D intern at Dassault Systemes. I am pursuing Masters in Information system. I am very interested in Web and Software Development. I was a TA for Web design/User experience course at Northeastern before starting my Internship",
+    "contactmessage":"Want to get in touch. Shoot a message",
+    "email": "khurana.d@husky.neu.edu",
+    "phone": "617-959-9013",
+    "address":{
+      "street":"3110, Washington Street",
+      "city":"Boston",
+      "state":"Massachussets",
+      "zip": "02119"
+    },
+    "website": "http://www.deepankkhurana.github.io",
+    "resumedownload":"http://deepankkhurana.github.io",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/deepank.khurana",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/deepank_khurana",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/deepankkhurana",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/deepank-khurana/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/deepankkhurana/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Deepankkhurana/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Proficient in Java, Python, ReactJs, Javascript, Angular, Jquery, Bootstrap",
+    "education":[
+      {
+        "school":"Northeastern University",
+        "degree":"Masters in Information System",
+        "graduated":"December 2020",
+        "description":"I am learning new things everyday and I always strive to become a better engineer"
+      },
+      {
+        "school":"B.M Institute of Engineering and Technology",
+        "degree":"B Tech. in Computer Science",
+        "graduated":"June 2014",
+        "description":"Learned ton of things during undergraduation. Help me acheive what I am today."
+      }
+    ],
+    "work":[
+      {
+        "company":"Dassault Systemes",
+        "title":"R&D Intern",
+        "years":"January 2020 - Present",
+        "description":"I have just started working. Will update this as I go along. to be Continued...."
+      },
+      {
+        "company":"RDV Trading Company",
+        "title":"Team Lead ",
+        "years":"September 2017 - November 2018",
+        "description":" Spearheaded a team of 8 engineers responsible for design of test automation architecture. Involved with the development team in estimating, planning and refactoring software development programs, projects and related tasks. Created and maintained all the technical documentation, project architecture and blueprint "
+      }, 
+      {
+        "company":"Accenture",
+        "title":"Application Development Analyst",
+        "years":"January 2015 - August 2017",
+        "description":"Mined data for successful execution of end to end test scenarios in SAP ECC and provide resolution for user tickets on SAP MM areas involving invoice verification, Material planning, Purchase requisition, Purchase order, Source list, Contracting etc, also worked on SAP SD and OTM. Automated and tested over 300 scripts in SAP TAO and over 50 scripts in HP QTP. Performed Data Manipulation and data cleaning operation using SQL for business needs"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"Jquery",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Amazon Fine Food Reviews",
+        "category":"Data Science",
+        "image":"amazon.png",
+        "url":"https://github.com/Deepankkhurana/Amazon-Fine-food-review"
+      },
+      {
+        "title":"React Guess Game",
+        "category":"React",
+        "image":"guess.png",
+        "url":"https://github.com/Deepankkhurana/ReactGuessGame"
+      },
+      {
+        "title":"React Weather Application",
+        "category":"Weather Application",
+        "image":"weather.png",
+        "url":"https://github.com/Deepankkhurana/weatherapplication"
+      },
+      {
+        "title":"Resume Website",
+        "category":"Resume Website",
+        "image":"resume.png",
+        "url":"http://www.deepankkhurana.github.io"
+      },
+      {
+        "title":"Snake and Ping pong using python",
+        "category":"Games",
+        "image":"pingpong.png",
+        "url":"https://github.com/Deepankkhurana/PythonGames"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Mr. Khurana is one of the most motivated, forward-thinking and intelligent student that I have. He is extremely responsible and an excellent Teaching Assistant.",
+        "user":"Vishal Chawla, Asst Professor - Northeastern University"
+      },
+      {
+        "text":"Deepank is a talented and wonderful student with great problem solving skills. Deepank pays excellent attentions to details and has good understanding of algorithms.His ability to distinguish and apply right machine learning algorithm makes him stand out among his peers. ",
+        "user":"Helen Liu, Professor - Northeaster University"
+      }
+    ]
+  }
+}
