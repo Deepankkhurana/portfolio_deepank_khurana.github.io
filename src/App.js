@@ -22,6 +22,8 @@ class App extends Component {
     ReactGA.initialize('UA-110570651-1');
     ReactGA.pageview(window.location.pathname);
 
+    ReactDOM.render(<Router basename={process.env.PUBLIC_URL}>< App /></Router>, document.getElementById('root'));
+
   }
 
   getResumeData(){
@@ -45,6 +47,7 @@ class App extends Component {
 
   render() {
     return (
+      <Route exact path={`/`} render={ (routerProps) => < Home routerProps={routerProps} setUpGame={this.setUpGame} />} />
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
